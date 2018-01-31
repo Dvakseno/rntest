@@ -32,12 +32,12 @@
         "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\72bf9b92249ba22e5ff2f49ad371f200\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dev_loading_view.xml.flat",
-        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.52.0.aar\\435a73f5fe37e3e11ef3eb5df67d72fa\\res\\layout\\dev_loading_view.xml"
-    },
-    {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\72bf9b92249ba22e5ff2f49ad371f200\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dev_loading_view.xml.flat",
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.49.5.aar\\9e4242ef8ac7574246f0db591fa5abb0\\res\\layout\\dev_loading_view.xml"
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
@@ -149,23 +149,23 @@
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_push_up_out.xml.flat",
-        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.52.0.aar\\435a73f5fe37e3e11ef3eb5df67d72fa\\res\\anim\\catalyst_push_up_out.xml"
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.49.5.aar\\9e4242ef8ac7574246f0db591fa5abb0\\res\\anim\\catalyst_push_up_out.xml"
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
         "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\72bf9b92249ba22e5ff2f49ad371f200\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\72bf9b92249ba22e5ff2f49ad371f200\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\72bf9b92249ba22e5ff2f49ad371f200\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\72bf9b92249ba22e5ff2f49ad371f200\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_redbox_item_title.xml.flat",
-        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.52.0.aar\\435a73f5fe37e3e11ef3eb5df67d72fa\\res\\layout\\redbox_item_title.xml"
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.49.5.aar\\9e4242ef8ac7574246f0db591fa5abb0\\res\\layout\\redbox_item_title.xml"
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
@@ -190,6 +190,10 @@
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\72bf9b92249ba22e5ff2f49ad371f200\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.49.5.aar\\9e4242ef8ac7574246f0db591fa5abb0\\res\\anim\\slide_up.xml"
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -250,6 +254,10 @@
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
         "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\72bf9b92249ba22e5ff2f49ad371f200\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.49.5.aar\\9e4242ef8ac7574246f0db591fa5abb0\\res\\anim\\slide_down.xml"
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_focused_holo.9.png.flat",
@@ -321,7 +329,7 @@
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fps_view.xml.flat",
-        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.52.0.aar\\435a73f5fe37e3e11ef3eb5df67d72fa\\res\\layout\\fps_view.xml"
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.49.5.aar\\9e4242ef8ac7574246f0db591fa5abb0\\res\\layout\\fps_view.xml"
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -485,7 +493,7 @@
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_redbox_item_frame.xml.flat",
-        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.52.0.aar\\435a73f5fe37e3e11ef3eb5df67d72fa\\res\\layout\\redbox_item_frame.xml"
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.49.5.aar\\9e4242ef8ac7574246f0db591fa5abb0\\res\\layout\\redbox_item_frame.xml"
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -529,7 +537,7 @@
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_push_up_in.xml.flat",
-        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.52.0.aar\\435a73f5fe37e3e11ef3eb5df67d72fa\\res\\anim\\catalyst_push_up_in.xml"
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.49.5.aar\\9e4242ef8ac7574246f0db591fa5abb0\\res\\anim\\catalyst_push_up_in.xml"
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -620,6 +628,10 @@
         "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\72bf9b92249ba22e5ff2f49ad371f200\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.49.5.aar\\9e4242ef8ac7574246f0db591fa5abb0\\res\\anim\\fade_in.xml"
+    },
+    {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
         "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\72bf9b92249ba22e5ff2f49ad371f200\\res\\layout\\select_dialog_multichoice_material.xml"
     },
@@ -662,6 +674,10 @@
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\72bf9b92249ba22e5ff2f49ad371f200\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.49.5.aar\\9e4242ef8ac7574246f0db591fa5abb0\\res\\anim\\fade_out.xml"
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -973,7 +989,7 @@
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_redbox_view.xml.flat",
-        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.52.0.aar\\435a73f5fe37e3e11ef3eb5df67d72fa\\res\\layout\\redbox_view.xml"
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.49.5.aar\\9e4242ef8ac7574246f0db591fa5abb0\\res\\layout\\redbox_view.xml"
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -1137,7 +1153,7 @@
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
-        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.52.0.aar\\435a73f5fe37e3e11ef3eb5df67d72fa\\res\\xml\\preferences.xml"
+        "source": "C:\\Users\\ex101_000\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.49.5.aar\\9e4242ef8ac7574246f0db591fa5abb0\\res\\xml\\preferences.xml"
     },
     {
         "merged": "C:\\dev\\reactNative\\rn-course\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
