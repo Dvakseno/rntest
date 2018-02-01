@@ -258,8 +258,6 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="catalyst_copy_button" project="catalyst" translatable="false">Copy</string>
     <string name="catalyst_debugjs" project="catalyst" translatable="false">Debug JS Remotely</string>
-    <string name="catalyst_debugjs_nuclide" project="catalyst" translatable="false">Debug JS in Nuclide</string>
-    <string name="catalyst_debugjs_nuclide_failure" project="catalyst" translatable="false">The request to attach Nuclide could not reach Metro Bundler!</string>
     <string name="catalyst_debugjs_off" project="catalyst" translatable="false">Stop Remote JS Debugging</string>
     <string name="catalyst_dismiss_button" project="catalyst" translatable="false">Dismiss\n(ESC)</string>
     <string name="catalyst_element_inspector" project="catalyst" translatable="false">Toggle Inspector</string>
@@ -1208,19 +1206,13 @@
     <style name="CalendarDatePickerStyle" ns1:targetApi="lollipop" parent="android:Widget.Material.Light.DatePicker">
         <item name="android:datePickerMode">calendar</item>
     </style>
-    <style name="ClockTimePickerDialog" ns1:targetApi="lollipop" parent="Theme.AppCompat.Light.Dialog">
-      <item name="android:timePickerStyle">@style/ClockTimePickerStyle</item>
-    </style>
-    <style name="ClockTimePickerStyle" ns1:targetApi="lollipop" parent="android:Widget.Material.Light.TimePicker">
-      <item name="android:timePickerMode">clock</item>
-    </style>
     <style name="DialogAnimationFade">
-    <item name="android:windowEnterAnimation">@anim/catalyst_fade_in</item>
-    <item name="android:windowExitAnimation">@anim/catalyst_fade_out</item>
+    <item name="android:windowEnterAnimation">@anim/fade_in</item>
+    <item name="android:windowExitAnimation">@anim/fade_out</item>
   </style>
     <style name="DialogAnimationSlide">
-    <item name="android:windowEnterAnimation">@anim/catalyst_slide_up</item>
-    <item name="android:windowExitAnimation">@anim/catalyst_slide_down</item>
+    <item name="android:windowEnterAnimation">@anim/slide_up</item>
+    <item name="android:windowExitAnimation">@anim/slide_down</item>
   </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -1367,12 +1359,6 @@
     </style>
     <style name="SpinnerDatePickerStyle" ns1:targetApi="lollipop" parent="android:Widget.Material.Light.DatePicker">
         <item name="android:datePickerMode">spinner</item>
-    </style>
-    <style name="SpinnerTimePickerDialog" ns1:targetApi="lollipop" parent="Theme.AppCompat.Light.Dialog">
-      <item name="android:timePickerStyle">@style/SpinnerTimePickerStyle</item>
-    </style>
-    <style name="SpinnerTimePickerStyle" ns1:targetApi="lollipop" parent="android:Widget.Material.Light.TimePicker">
-      <item name="android:timePickerMode">spinner</item>
     </style>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
